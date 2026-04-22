@@ -2,7 +2,8 @@
 
 **Authentication & Authorization for Autonomous Agents**
 
-AAuth is an authorization protocol where every agent — any HTTP client — has its own cryptographic identity. No pre-registration. No shared secrets. No dependency on a particular server.
+AAuth is an authorization protocol where every agent — any HTTP client — has its own cryptographic identity.  
+No pre-registration. No shared secrets. No dependency on a particular server.
 
 - [aauth.dev](https://www.aauth.dev) — website
 - [Protocol draft](https://dickhardt.github.io/AAuth/draft-hardt-aauth-protocol.html) — IETF Internet-Draft
